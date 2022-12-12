@@ -20,7 +20,7 @@ using Folium in Python.
 
 ### Deliverable
 
-The notebook and your animated GIF should be submitted to your own private
+The notebook should be submitted to your own private
 repository on GitHub, which can be created using the following link:
 
 https://classroom.github.com/a/x9a--7nH
